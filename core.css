@@ -1,0 +1,25 @@
+.title-header{
+    font-family: "Courier New", sans-serif;
+    text-align: center;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.news-container{
+    margin: 40px 40px 0px 40px;
+}
+
+.title{
+    width: 120px;
+}
+
+.preview{
+    width: 120px;
+    height: 120px;
+    border-radius: 5px;
+}
+
